@@ -38,7 +38,6 @@ public class Graph {
         g.addEdge(2, 3);
         g.addEdge(3, 3);
         g.DFSTest();
-        System.out.println();
         g.BFSTest();
     }
 
@@ -69,6 +68,7 @@ public class Graph {
     void DFS(int s) {
         boolean visited[] = new boolean[V];
         DFSRec(s, visited);
+        System.out.print("End;\n");
     }
 
     void DFSRec(int v, boolean visited[]) {
