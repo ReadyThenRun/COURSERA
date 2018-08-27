@@ -14,7 +14,7 @@ The company currently has many of their services in the cloud, such as email, wo
 
 <h4>My solution:</h4>
 <p>
-There are lots of problem descripted in this question document. 
+There are lots of problems descripted in this question document. 
   
 Firstly, Let the employees to buy computer by themselves is not a good suggestion. They should draft a standard operating procedure (SOP) for procurement process. For a software company, computer have special requirement for then reason that developer will use it as a main weapon to product debugging and software running environment testing. It is essentially for the software company to implement a SOP for computer procurement. 
   
