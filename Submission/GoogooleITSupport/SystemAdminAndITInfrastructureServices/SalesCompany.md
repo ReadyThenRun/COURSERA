@@ -10,15 +10,14 @@ Customer data is stored on a single file server. When a new salesperson starts, 
 
 The company generates a lot of revenue and is rapidly growing. They’re expecting to hire hundreds of new employees in the next year or so, and you may not be able to scale your operations at the pace you’re working.
 
-### My Answer
-There are lots of problem descripted in this question document. 
+### My solution:
+Firstly, I will think about to make full use of the advantage of Group Policy Management tools and set up well functional optimized GPOs. It is an effective way to manage user accounts. We can enforce the complexity requirements of passwords of user login accounts to promote the safety level of our whole company.
 
-Firstly, Let the employees to buy computer by themselves is not a good suggestion. They should draft a standard operating procedure (SOP) for procurement process. For a software company, computer have special requirement for then reason that developer will use it as a main weapon to product debugging and software running environment testing. It is essentially for the software company to implement a SOP for computer procurement. 
+Secondly, just like the condition we are facing in the first software company, we can build and maintain a well optimized corporate computer OS Images which some of the working software were pre-installed. So, we can save the workload in the next time when we provide a new computer.
 
-Secondly, the company should make remediation plans response to the affairs of, for example, facing a computer losing. Company’s computers should be well labelled and well documented. There should be a well-organized inventory system for all the company assets and it is useful in audit affairs.
+Thirdly, as we all know that the sensitive custom data should have its backups. We should have short time cycle backup schema and worked with long-time cycle backup schema. What's more, we should not only backup those files only on our local machine. We can buy a security file backup service on a reliable third-party cloud platform or purchase other separate working storage hardware, avoiding the data lost in the potential of hardware physical damage conditions.
 
-Thirdly, IT support should help to draft a Standard for Computer OS Management. Building and maintaining optimized corporate computer OS Images. In a software company, developers need lots of professional development tools assistant the software developing process. A new employee may not familiar with those tools which are popularly used in the company. Problems happen when the need for cooperating to finish a task. So, standardize and streamline the process is helpful to save configuring time for setting up a new computer. On another aspect, there are lots of on-hand and well-designed schemes for OS configuring. It is valuable for an IT supporter to learn and overcome this challenge.
+Fourthly, I will use the attribute of GPOs set different file access permission. Only domain admins who have the permission of full control of files and directory can delete files on the file server. All users could be assigned permissions based on roles in the company and corresponding GPOs.
 
-Fourthly, the company has not deployed a security Password Management Solution. Unfortunately, employees have to reimage their computer when they are having no way to retrieve their password. A Central Authentication solution can easy solve this problem. As helping employees with password issues is a common task for IT supporter. When an employee lost their password, IT support should help him reset their password to solve the problem.
+Fifthly, the company is growing rapidly, we can apply more investment in system infrastructure and human resources. We can move more workload to a third-party platform and suggest the company hire more employee on IT support. 
 
-Fifthly, the company has many of their services in the cloud. They should have a domain controller and central management services such as OpenLDAP, which can track computers connected to the domain. This could be used to provision software to any computers joined to the domain and would implement strict password management.
