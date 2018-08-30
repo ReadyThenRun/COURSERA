@@ -14,10 +14,10 @@ The company currently has many of their services in the cloud, such as email, wo
 
 <h4>My solution:</h4>
 <p>
-There are lots of problems descripted in this question document. 
-  
+There are lots of problem descripted in this question document. 
+
 Firstly, Let the employees to buy computer by themselves is not a good suggestion. They should draft a standard operating procedure (SOP) for procurement process. For a software company, computer have special requirement for then reason that developer will use it as a main weapon to product debugging and software running environment testing. It is essentially for the software company to implement a SOP for computer procurement. 
-  
+
 Secondly, the company should make remediation plans response to the affairs of, for example, facing a computer losing. Company’s computers should be well labelled and well documented. There should be a well-organized inventory system for all the company assets and it is useful in audit affairs.
 
 Thirdly, IT support should help to draft a Standard for Computer OS Management. Building and maintaining optimized corporate computer OS Images. In a software company, developers need lots of professional development tools assistant the software developing process. A new employee may not familiar with those tools which are popularly used in the company. Problems happen when the need for cooperating to finish a task. So, standardize and streamline the process is helpful to save configuring time for setting up a new computer. On another aspect, there are lots of on-hand and well-designed schemes for OS configuring. It is valuable for an IT supporter to learn and overcome this challenge.
