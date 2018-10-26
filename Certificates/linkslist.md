@@ -7,6 +7,24 @@
 - [ ] <a href="">Computer Organization</a></br>
 
 ### Specializations 
+<a href="">Algorithms Specialization</a></br>
+- [x] <a href="https://www.coursera.org/account/accomplishments/verify/FBVCY8ZHKCWP">Divide and Conquer, Sorting and Searching, and Randomized Algorithms</a></br>
+- [x] <a href="https://www.coursera.org/account/accomplishments/verify/JLJMDPMQMXGL">Graph Search, Shortest Paths, and Data Structures</a></br>
+- [x] <a href="">Greedy Algorithms, MST, and Dynamic Programming</a></br>
+- [ ] <a href="">Shortest Paths Revisited, NP-Complete Problems </a></br>
+
+<a href="">Object Oriented Java Programming: Data Structures and Beyond</a></br>
+- [ ] <a href="">Object Oriented Programming in Java</a></br>
+- [ ] <a href="">Data Structures and Performance</a></br>
+- [ ] <a href="">Advanced Data Structures in Java</a></br>
+- [ ] <a href="">Mastering the Software Engineering Interview</a></br>
+- [ ] <a href="">Capstone: Analyzing (Social) Network Data</a></br>
+
+<a href="">Parallel, Concurrent, and Distributed Programming in Java Specialization</a></br>
+- [ ] <a href="">Parallel Programming in Java</a></br>
+- [ ] <a href="">Concurrent Programming in Java</a></br>
+- [ ] <a href="">Distributed Programming in Java</a></br>
+
 <a href="https://www.coursera.org/account/accomplishments/specialization/JJSTGADPBKXU">Cisco Networking Basics Specializations</a></br>
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/893CXHXRNJAY">Internet Connection: How to Get Online?</a></br>
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/RXKFVLL8QS8E">Network Protocols and Architecture</a></br>
@@ -32,24 +50,6 @@
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/EG7QKYTQQLGG">Google Cloud Platform Fundamentals: Core Infrastructure</a></br>
 - [ ] <a href="">Networking in GCP: Defining and Implementing Networks</a></br>
 - [ ] <a href="">Networking in GCP: Hybrid Connectivity and Network Management</a></br>
-
-<a href="">Algorithms Specialization</a></br>
-- [x] <a href="https://www.coursera.org/account/accomplishments/verify/FBVCY8ZHKCWP">Divide and Conquer, Sorting and Searching, and Randomized Algorithms</a></br>
-- [x] <a href="https://www.coursera.org/account/accomplishments/verify/JLJMDPMQMXGL">Graph Search, Shortest Paths, and Data Structures</a></br>
-- [x] <a href="">Greedy Algorithms, MST, and Dynamic Programming</a></br>
-- [ ] <a href="">Shortest Paths Revisited, NP-Complete Problems </a></br>
-
-<a href="">Object Oriented Java Programming: Data Structures and Beyond</a></br>
-- [ ] <a href="">Object Oriented Programming in Java</a></br>
-- [ ] <a href="">Data Structures and Performance</a></br>
-- [ ] <a href="">Advanced Data Structures in Java</a></br>
-- [ ] <a href="">Mastering the Software Engineering Interview</a></br>
-- [ ] <a href="">Capstone: Analyzing (Social) Network Data</a></br>
-
-<a href="">Parallel, Concurrent, and Distributed Programming in Java Specialization</a></br>
-- [ ] <a href="">Parallel Programming in Java</a></br>
-- [ ] <a href="">Concurrent Programming in Java</a></br>
-- [ ] <a href="">Distributed Programming in Java</a></br>
 
 <a href="">Advanced Machine Learning Specialization</a></br>
 - [ ] <a href="">Introduction to Deep Learning</a></br>
