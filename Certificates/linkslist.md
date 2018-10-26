@@ -1,6 +1,10 @@
 ### Courses Schedule
 
 #### Normal Seperate Courses
+- [ ] <a href="">Operating Systems</a></br>
+- [ ] <a href="">Operating system and virtualization security</a></br>
+- [ ] <a href="">Java programming</a></br>
+- [ ] <a href="">Computer Organization</a></br>
 
 ### Specializations 
 <a href="https://www.coursera.org/account/accomplishments/specialization/JJSTGADPBKXU">Cisco Networking Basics Specializations</a></br>
