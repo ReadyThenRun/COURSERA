@@ -37,7 +37,7 @@
 - [ ] <a href="">Data Warehouse Concepts, Design, and Data Integration</a></br>
 - [ ] <a href="">Relational Database Support for Data Warehouses</a></br>
 - [ ] <a href="">Business Intelligence Concepts, Tools, and Applications</a></br>
-- [ ] <a href="">Design and Build a D.W. for B.I. Implementation</a></br>
+- [ ] <a href="">Design and Build a Data Warehouse for Business Intelligence Implementation</a></br>
 
 <a href="">Google IT Support Professional Certificate Specialization</a></br>
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/B25C57E3GV3L">Technical Support Fundamentals</a></br>
