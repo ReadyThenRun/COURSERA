@@ -1,6 +1,6 @@
-### Courses Schedule
+# Courses Schedule
 
-#### Normal Seperate Courses
+### Normal Seperate Courses
 - [ ] <a href="">Operating Systems</a></br>
 - [ ] <a href="">Operating system and virtualization security</a></br>
 - [ ] <a href="">Java programming</a></br>
