@@ -16,8 +16,8 @@
 
 ### Specializations 
 <a href="https://www.coursera.org/account/accomplishments/specialization/JJSTGADPBKXU">Cisco Networking Basics Specializations</a></br>
-- [+] <a href="https://www.coursera.org/account/accomplishments/certificate/893CXHXRNJAY">Internet Connection: How to Get Online?</a></br>
--[+] <a href="https://www.coursera.org/account/accomplishments/verify/RXKFVLL8QS8E">Network Protocols and Architecture</a></br>
+- [x] <a href="https://www.coursera.org/account/accomplishments/certificate/893CXHXRNJAY">Internet Connection: How to Get Online?</a></br>
+- [x] <a href="https://www.coursera.org/account/accomplishments/verify/RXKFVLL8QS8E">Network Protocols and Architecture</a></br>
 
 
 
