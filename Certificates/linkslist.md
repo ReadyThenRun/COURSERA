@@ -15,7 +15,7 @@
 
 <a href="">Object Oriented Java Programming: Data Structures and Beyond</a></br>
 - [ ] <a href="">Object Oriented Programming in Java</a></br>
-- [ ] <a href="">Data Structures and Performance</a></br>
+- [x] <a href="">Data Structures and Performance</a></br>
 - [ ] <a href="">Advanced Data Structures in Java</a></br>
 - [ ] <a href="">Mastering the Software Engineering Interview</a></br>
 - [ ] <a href="">Capstone: Analyzing (Social) Network Data</a></br>
