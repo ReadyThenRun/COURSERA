@@ -11,7 +11,7 @@
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/FBVCY8ZHKCWP">Divide and Conquer, Sorting and Searching, and Randomized Algorithms</a></br>
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/JLJMDPMQMXGL">Graph Search, Shortest Paths, and Data Structures</a></br>
 - [x] <a href="">Greedy Algorithms, MST, and Dynamic Programming</a></br>
-- [ ] <a href="">Shortest Paths Revisited, NP-Complete Problems </a></br>
+- [x] <a href="https://www.coursera.org/account/accomplishments/certificate/3DWPVYZPYWQD">Shortest Paths Revisited, NP-Complete Problems </a></br>
 
 <a href="">Object Oriented Java Programming: Data Structures and Beyond</a></br>
 - [ ] <a href="">Object Oriented Programming in Java</a></br>
