@@ -49,7 +49,7 @@
 <a href="">Networking in Google Cloud Platform Specialization</a></br>
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/EG7QKYTQQLGG">Google Cloud Platform Fundamentals: Core Infrastructure</a></br>
 - [x] <a href="">Networking in GCP: Defining and Implementing Networks</a></br>
-- [ ] <a href="">Networking in GCP: Hybrid Connectivity and Network Management</a></br>
+- [x] <a href="https://www.coursera.org/account/accomplishments/certificate/GAKT6MUZCT7J">Networking in GCP: Hybrid Connectivity and Network Management</a></br>
 
 <a href="">Advanced Machine Learning Specialization</a></br>
 - [ ] <a href="">Introduction to Deep Learning</a></br>
