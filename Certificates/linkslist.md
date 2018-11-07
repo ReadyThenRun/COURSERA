@@ -7,7 +7,7 @@
 - [ ] <a href="">Computer Organization</a></br>
 
 ### Specializations 
-<a href="">Algorithms Specialization</a></br>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JQBRTFXR6U7L">Algorithms Specialization</a></br>
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/FBVCY8ZHKCWP">Divide and Conquer, Sorting and Searching, and Randomized Algorithms</a></br>
 - [x] <a href="https://www.coursera.org/account/accomplishments/verify/JLJMDPMQMXGL">Graph Search, Shortest Paths, and Data Structures</a></br>
 - [x] <a href="https://www.coursera.org/account/accomplishments/certificate/4HPLGZ3HLDH7">Greedy Algorithms, MST, and Dynamic Programming</a></br>
