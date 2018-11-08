@@ -1,7 +1,7 @@
 # Courses Schedule
 
 ### Normal Seperate Courses
-- [ ] <a href="">Operating Systems</a></br>
+- [x] <a href="https://www.coursera.org/account/accomplishments/certificate/FT3D9UZ8LWMR">Operating Systems</a></br>
 - [ ] <a href="">Operating System and Virtualization Security</a></br>
 - [ ] <a href="">Java Programming</a></br>
 - [ ] <a href="">Computer Organization</a></br>
