@@ -1,0 +1,51 @@
+
+<head>
+<script>
+    var xmlhttp;
+
+    $(
+
+    );
+
+    function loadXML(url){
+        xmlhttp = null;
+
+        if (window.XMLHttpRequest){
+            xmlhttp = new XMLHttpRequest();
+        }else if(window.ActiveXObject){
+            xmlhttp=ActiveXObject("Microsoft.XMLHTTP");
+        }
+        if (xmlhttp != null){
+            xmlhttp.onreadystatechange=state_Change;
+            xmlhttp.open("GET", url, true);
+            xmlhttp.send(null);
+        }
+        else{
+            alert("Your browser does not support XMLHTTP.");
+        }
+
+        function state_Change(){
+            if(xmlhttp.readyState == 4){
+                if (xmlhttp.status == 200 ){
+                    document.getElementById("XHR1").innerHTML=xmlhttp.status;
+                    document.getElementById("XHR2").innerHTML=xmlhttp.statusText;
+                    document.getElementById("XHR3").innerHTML=xmlhttp.responseText;
+                }else{
+                    alert("Problem retrieving XML data:" + xmlhttp.statusText);
+                }
+            }
+        }
+
+    } 
+</Script>
+<head>
+<body>
+    <div id="xmlhttp">
+        <h2>Example: using the XMLHttpRequest Object </h2>
+        <p><b>Status:</b><span id="XHR1"></span></p>        
+        <p><b>Status text:</b><span id="XHR2"></span></p>           
+        <p><b>Response:</b><br /><span id="XHR3"></span></p>
+        <button onclick="loadXML('./note.xml')">Get XML</button>
+    </div>
+</body>
+
