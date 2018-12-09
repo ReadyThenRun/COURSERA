@@ -2,11 +2,11 @@
 <head>
 <script>
     var xmlhttp;
-
+/*
     $(
 
     );
-
+*/
     function loadXML(url){
         xmlhttp = null;
 
@@ -30,21 +30,43 @@
                     document.getElementById("XHR1").innerHTML=xmlhttp.status;
                     document.getElementById("XHR2").innerHTML=xmlhttp.statusText;
                     document.getElementById("XHR3").innerHTML=xmlhttp.responseText;
+                    document.getElementById("XHR4").innerHTML=xmlhttp.responseText;
                 }else{
                     alert("Problem retrieving XML data:" + xmlhttp.statusText);
                 }
             }
         }
-
     } 
 </Script>
+<style>
+textarea#XHR3 {
+    width:100%;
+    /*direction:rtl;*/
+    display:block;
+    max-width:50%;
+    line-height:1.5;
+    padding:15px 15px 30px;
+    border-radius:3px;
+    border:1px solid #1e07e9;
+    font:13px Tahoma, cursive;
+    transition:box-shadow 0.5s ease;
+    box-shadow:0 4px 6px rgba(0,0,0,0.1);
+    /*font-smoothing:subpixel-antialiased;*/
+    background:linear-gradient(#F9EFAF, #F7E98D);
+    background:-o-linear-gradient(#F9EFAF, #F7E98D);
+    background:-ms-linear-gradient(#F9EFAF, #F7E98D);
+    background:-moz-linear-gradient(#F9EFAF, #F7E98D);
+    background:-webkit-linear-gradient(#F9EFAF, #F7E98D);
+}
+</style>
 <head>
 <body>
     <div id="xmlhttp">
         <h2>Example: using the XMLHttpRequest Object </h2>
         <p><b>Status:</b><span id="XHR1"></span></p>        
         <p><b>Status text:</b><span id="XHR2"></span></p>           
-        <p><b>Response:</b><br /><span id="XHR3"></span></p>
+        <p><b>Response as teatarea:</b><br /><textarea id="XHR3" cols="40"></textarea></p>
+        <p><b>Response as html:</b><br /><span id="XHR4"></span></p>
         <button onclick="loadXML('./note.xml')">Get XML</button>
     </div>
 </body>
